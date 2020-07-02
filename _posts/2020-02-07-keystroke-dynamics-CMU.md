@@ -11,7 +11,18 @@ Cyber attacks has always been of a great concern. Websites and services with poo
 
 # Results
 
-![Keystroke dynamics - confusion matrix with negative class](assets/images/keystroke-confusion.jpg "Confusion matrix with negative class")
+Confusion matrix with negative class is shown below.
+<img src="https://github.com/abhishekbamotra/abhib/blob/master/assets/images/keystroke-confusion.jpg" alt="Confusion matrix with negative class" height="400"/>
+
+Table showcasing the results for different models attempted.
+
+| Multi-Class Classification | Accuracy % |
+|----------------------------|------------|
+| ANN (With Negative Class)  | 95.05      |
+| ANN (1-D Conv.)            | 94.6       |
+| Random Forest              | 93.66      |
+| ANN (Fully Connected)      | 92.2       |
+| Support Vector Machine     | 75.6       |
 
 # Everything in detail
 I have uploaded everthing related to the project on 

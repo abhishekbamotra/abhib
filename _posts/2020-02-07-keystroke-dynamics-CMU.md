@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Abhishek Bamotra's first post"
+title:  "KeyDetect - Detection of anomalies and user based on Keystroke Dynamics"
 author: abhishekbamotra
 categories: [ Jekyll, tutorial ]
-image: assets/images/home.jpg
+image: assets/images/keystroke.png
 tags: [sticky]
 ---
 
-Abhishek
+Cyber attacks has always been of a great concern. Websitesand services with poor security layers are the mostvulnerable to such cyber attacks. The attackers can easilyaccess sensitive data like credit card details and social securitynumber from such vulnerable services. Currently tostop cyber attacks, various different methods are opted fromusing two-step verification methods like One-Time Passwordand push notification services to using high-end biometricdevices like finger print reader and iris scanner areused as security layers. These current security measurescarry a lot of cons and the worst is that user always needto carry the authentication device on them to access theirdata. To overcome this, we are proposing a technique of usingkeystroke dynamics (typing pattern) of a user to authenticatethe genuine user. In the method, we are taking a dataset of 51 users typing a password in 8 sessions done on alternatedays to record mood fluctuations of the user. Developedand implemented anomaly-detection algorithm basedon distance metrics and machine learning algorithms likeArtificial Neural networks (ANN) and convolutional neuralnetwork (CNN) to classify the users. In ANN, we implementedmulti-class classification using 1-D convolution asthe data was correlated and multi-class classification withnegative class which was used to classify anomaly based onall users put together. We were able to achieve an accuracyof 95.05% using ANN with Negative Class. From theresults achieved, we can say that the model works perfectlyand can be bought into the market as a security layer anda good alternative to two-step verification using externaldevices. This technique will enable users to have two-stepsecurity layer without worrying about carry an authenticationdevice.

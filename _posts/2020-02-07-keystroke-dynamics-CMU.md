@@ -6,5 +6,13 @@ categories: [ Machine Learning, Paper, Security ]
 image: assets/images/keystroke.png
 tags: [sticky]
 ---
-
+# Abstract
 Cyber attacks has always been of a great concern. Websites and services with poor security layers are the most vulnerable to such cyber attacks. The attackers can easily access sensitive data like credit card details and social security number from such vulnerable services. Currently to stop cyber attacks, various different methods are opted from using two-step verification methods like One-Time Password and push notification services to using high-end biometric devices like finger print reader and iris scanner are used as security layers. These current security measures carry a lot of cons and the worst is that user always need to carry the authentication device on them to access their data. To overcome this, we are proposing a technique of using keystroke dynamics (typing pattern) of a user to authenticate the genuine user. In the method, we are taking a dataset of 51 users typing a password in 8 sessions done on alternatedays to record mood fluctuations of the user. Developedand implemented anomaly-detection algorithm basedon distance metrics and machine learning algorithms like Artificial Neural networks (ANN) and convolutional neural network (CNN) to classify the users. In ANN, we implemented multi-class classification using 1-D convolution as the data was correlated and multi-class classification with negative class which was used to classify anomaly based on all users put together. We were able to achieve an accuracy of 95.05% using ANN with Negative Class. From the results achieved, we can say that the model works perfectly and can be bought into the market as a security layer and a good alternative to two-step verification using external devices. This technique will enable users to have two-step security layer without worrying about carry an authentication device.
+
+# Results
+
+![Keystroke dynamics - confusion matrix with negative class](assets/images/keystroke-confusion.jpg "Confusion matrix with negative class")
+
+# Everything in detail
+I have uploaded everthing related to the project on 
+[Github repository](https://github.com/abhishekbamotra/machinelearning24787){: .btn .btn-green .mr-4 }

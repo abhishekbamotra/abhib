@@ -12,7 +12,7 @@ Cyber attacks has always been of a great concern. Websites and services with poo
 # Results
 
 Confusion matrix with negative class is shown below.
-<img src="assets/images/keystroke-confusion.jpg" alt="Confusion matrix with negative class" height="400"/>
+<img src="https://github.com/abhishekbamotra/abhib/blob/master/assets/images/keystroke-confusion.jpg" alt="Confusion matrix with negative class" height="400"/>
 
 Table showcasing the results for different models attempted.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "KeyDetect - Detection of anomalies and user based on Keystroke Dynamics"
 author: abhishekbamotra
-categories: [ Jekyll, tutorial ]
+categories: [ Machine Learning, Paper, Security ]
 image: assets/images/keystroke.png
 tags: [sticky]
 ---

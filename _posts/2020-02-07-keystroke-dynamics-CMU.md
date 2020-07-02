@@ -12,7 +12,7 @@ Cyber attacks has always been of a great concern. Websites and services with poo
 # Results
 
 Confusion matrix with negative class is shown below.
-<img src="https://github.com/abhishekbamotra/abhib/blob/master/assets/images/keystroke-confusion.jpg" alt="Confusion matrix with negative class" height="400"/>
+<img src="assets/images/keystroke-confusion.jpg" alt="Confusion matrix with negative class" height="400"/>
 
 Table showcasing the results for different models attempted.
 
@@ -26,4 +26,4 @@ Table showcasing the results for different models attempted.
 
 # Everything in detail
 I have uploaded everthing related to the project on 
-[Github repository](https://github.com/abhishekbamotra/machinelearning24787){: .btn .btn-green .mr-4 }
+[Github repository](https://github.com/abhishekbamotra/machinelearning24787)

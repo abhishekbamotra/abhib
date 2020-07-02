@@ -16,13 +16,13 @@ Confusion matrix with negative class is shown below.
 
 Table showcasing the results for different models attempted.
 
-| Multi-Class Classification | Accuracy % |
-|----------------------------|------------|
-| ANN (With Negative Class)  | 95.05      |
-| ANN (1-D Conv.)            | 94.6       |
-| Random Forest              | 93.66      |
-| ANN (Fully Connected)      | 92.2       |
-| Support Vector Machine     | 75.6       |
+| Multi-Class Classification 	| Accuracy % 	|
+|----------------------------	|------------	|
+| ANN (With Negative Class)  	| 95.05      	|
+| ANN (1-D Conv.)            	| 94.6       	|
+| Random Forest              	| 93.66      	|
+| ANN (Fully Connected)      	| 92.2       	|
+| Support Vector Machine     	| 75.6       	|
 
 # Everything in detail
 I have uploaded everthing related to the project on 

@@ -33,4 +33,4 @@ black -l120 example_path/example_python_file.py
 
 Example of before and after formatting.
 
-![Black Before & After](https://raw.githubusercontent.com/abhishekbamotra/defmain_tech/main/exampleSite/images/black_before_after.png?token=ABZ76ZQR3QKIPVQEDJUXCPTAMD5Z4)
+![Black Before & After](../exampleSite/images/black_before_after.png)

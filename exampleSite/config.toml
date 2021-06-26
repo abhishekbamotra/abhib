@@ -50,6 +50,11 @@ name = "Tags"
 url = "/tags"
 weight = 4
 
+[[menu.main]]
+name = "CV"
+url = "https://cv.abhib.com"
+weight = 5
+
 [[params.social]]
 name = "Github"
 icon = "github"

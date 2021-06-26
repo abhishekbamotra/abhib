@@ -14,10 +14,10 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "defmaintech"
 
 [params]
-	subtitle = "From hatchling to Python."
+	subtitle = "Things I feel are worth!"
 
 	# Optional 64x64 avatar image.
-	avatar = "https://i.ibb.co/7gQPdPy/snake.png"
+	avatar = "https://i.ibb.co/SvgrjwB/boy-1.png"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]

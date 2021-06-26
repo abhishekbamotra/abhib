@@ -1,6 +1,6 @@
 ---
 title: "KeyDetect - Detection of anomalies and user based on Keystroke Dynamics"
-date: 2021-03-21T03:04:12+05:30
+date: 2020-11-11T07:21:10+05:30
 description: "Keystroke Dynamics can be a promising two-step verify for authorizing sign-in."
 tags: [projects]
 ---

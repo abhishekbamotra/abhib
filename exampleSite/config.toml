@@ -17,7 +17,10 @@ disqusShortname = "defmaintech"
 	subtitle = "Things I feel are worth!"
 
 	# Optional 64x64 avatar image.
-	avatar = "https://i.ibb.co/SvgrjwB/boy-1.png"
+	avatar = "https://github.com/abhishekbamotra/abhib/blob/master/logos/logo.png?raw=true"
+
+	# Favicon
+	favicon = "https://github.com/abhishekbamotra/abhib/blob/master/logos/favicon.png?raw=true"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]

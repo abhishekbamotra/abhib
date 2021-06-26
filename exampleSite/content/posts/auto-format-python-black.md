@@ -33,10 +33,4 @@ black -l120 example_path/example_python_file.py
 
 Example of before and after formatting.
 
-<p>
-    <img src="images/black_before_after.png?raw=true" width="220" height="240" />
-</p>
-
-![Black Before & After](images/black_before_after.png?raw=true)
-![Black Before & After](/images/black_before_after.png?raw=true)
 ![Black Before & After](https://github.com/abhishekbamotra/abhib/blob/master/exampleSite/content/posts/images/black_before_after.png?raw=true)

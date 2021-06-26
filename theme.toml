@@ -1,0 +1,12 @@
+name = "abhib"
+license = "MIT"
+licenselink = ""
+description = "Things I feel are worth"
+homepage = "https://abhib.com"
+tags = ["Python", "Tech", "Programming", "Machine Learning", "Robotics", "Computer Vision"]
+features = ["Technology", "Tutorials", "Life", "Robots", "DIY"]
+min_version = "0.37.0"
+
+[author]
+  name = "Abhishek Bamotra"
+  homepage = "https://cv.abhib.com"

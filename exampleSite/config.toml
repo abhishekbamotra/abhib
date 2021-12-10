@@ -10,7 +10,7 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "UA-123-45"
+googleAnalytics = "G-6B66K6TMQC"
 disqusShortname = "defmaintech"
 
 [params]

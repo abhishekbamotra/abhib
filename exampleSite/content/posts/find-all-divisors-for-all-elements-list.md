@@ -1,6 +1,6 @@
 ---
 title: "For each element in a list, Find count of divisors present in the list."
-date: 2021-03-21T03:04:12+05:30
+date: 2022-10-27T09:00:42+05:30
 description: "Given a list of integers, find count of divisors present in the list. The number is divisor of itself. The list may contain duplicates. This solution solves the problem in n(log(n)) as compared to straight n^2."
 tags: [coding]
 ---

@@ -23,7 +23,13 @@ def divisor_count(list_given):
     out = defaultdict(int)
  
     for i in freq:
+      
+      # Choose an element, take multiples of that 
+      # element upto max element
       for j in range(i, max_n + 1, i):
+        
+        # If multiple found in the list, add current 
+        # element as divisor
         if j in freq:
           out[j] += freq[i]
 

@@ -65,14 +65,14 @@ icon = "github"
 url = "https://github.com/abhishekbamotra"
 
 [[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
-
-[[params.social]]
 name = "Linkedin"
 icon = "linkedin"
 url = "https://linkedin.com/in/abamotra"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
 
 [taxonomies]
    tag = "tags"

@@ -7,82 +7,82 @@
 
 
 <url>
-  <loc>{{ site.baseurl }}/</loc>
+  <loc>{{ .Site.BaseURL }}/</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>{{ site.baseurl }}/posts/</loc>
+  <loc>{{ .Site.BaseURL }}/posts/</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>{{ site.baseurl }}/about/</loc>
+  <loc>{{ .Site.BaseURL }}/about/</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>{{ site.baseurl }}/tags/</loc>
+  <loc>{{ .Site.BaseURL }}/tags/</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>{{ site.baseurl }}/posts/find-all-divisors-for-all-elements-list/</loc>
+  <loc>{{ .Site.BaseURL }}/posts/find-all-divisors-for-all-elements-list/</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>{{ site.baseurl }}/posts/coding-practice-material/</loc>
+  <loc>{{ .Site.BaseURL }}/posts/coding-practice-material/</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>{{ site.baseurl }}/posts/off-campus-job-search-tricks/</loc>
+  <loc>{{ .Site.BaseURL }}/posts/off-campus-job-search-tricks/</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>{{ site.baseurl }}/posts/auto-format-python-black/</loc>
+  <loc>{{ .Site.BaseURL }}/posts/auto-format-python-black/</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>{{ site.baseurl }}/posts/post-1/</loc>
+  <loc>{{ .Site.BaseURL }}/posts/post-1/</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>{{ site.baseurl }}/page/2/</loc>
+  <loc>{{ .Site.BaseURL }}/page/2/</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>{{ site.baseurl }}/posts/keystroke-dynamics-cmu/</loc>
+  <loc>{{ .Site.BaseURL }}/posts/keystroke-dynamics-cmu/</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>{{ site.baseurl }}/tags/how-to/</loc>
+  <loc>{{ .Site.BaseURL }}/tags/how-to/</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>{{ site.baseurl }}/tags/coding/</loc>
+  <loc>{{ .Site.BaseURL }}/tags/coding/</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>{{ site.baseurl }}/tags/projects/</loc>
+  <loc>{{ .Site.BaseURL }}/tags/projects/</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>{{ site.baseurl }}/tags/tools/</loc>
+  <loc>{{ .Site.BaseURL }}/tags/tools/</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>{{ site.baseurl }}/tags/welcome/</loc>
+  <loc>{{ .Site.BaseURL }}/tags/welcome/</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>

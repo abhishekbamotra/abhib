@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "abhib"
 theme = "ink"
 paginate = 5
-relativeURLs = false
 
 copyright = "© Copyright notice"
 

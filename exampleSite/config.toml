@@ -72,6 +72,6 @@ url = "/index.xml"
    tag = "tags"
 
 [sitemap]
-  changefreq = 'monthly'
+  changefreq = 'weekly'
   filename = 'sitemap.xml'
-  priority = 0.5
+  priority = 1

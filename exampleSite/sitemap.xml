@@ -7,82 +7,82 @@
 
 
 <url>
-  <loc>https://abhib.com/</loc>
+  <loc>{{ "" | absLangURL }}</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://abhib.com/posts/</loc>
+  <loc>{{ "posts/" | absLangURL }}</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://abhib.com/about/</loc>
+  <loc>{{ "about/" | absLangURL }}</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://abhib.com/tags/</loc>
+  <loc>{{ "tags/" | absLangURL }}</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://abhib.com/posts/find-all-divisors-for-all-elements-list/</loc>
+  <loc>{{ "posts/find-all-divisors-for-all-elements-list/" | absLangURL }}</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://abhib.com/posts/coding-practice-material/</loc>
+  <loc>{{ "posts/coding-practice-material/" | absLangURL }}</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://abhib.com/posts/off-campus-job-search-tricks/</loc>
+  <loc>{{ "posts/off-campus-job-search-tricks/" | absLangURL }}</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://abhib.com/posts/auto-format-python-black/</loc>
+  <loc>{{ "posts/auto-format-python-black/" | absLangURL }}</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://abhib.com/posts/post-1/</loc>
+  <loc>{{ "posts/post-1/" | absLangURL }}</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://abhib.com/page/2/</loc>
+  <loc>{{ "page/2/" | absLangURL }}</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://abhib.com/posts/keystroke-dynamics-cmu/</loc>
+  <loc>{{ "posts/keystroke-dynamics-cmu/" | absLangURL }}</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://abhib.com/tags/how-to/</loc>
+  <loc>{{ "tags/how-to/" | absLangURL }}</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://abhib.com/tags/coding/</loc>
+  <loc>{{ "tags/coding/" | absLangURL }}</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://abhib.com/tags/projects/</loc>
+  <loc>{{ "tags/projects/" | absLangURL }}</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://abhib.com/tags/tools/</loc>
+  <loc>{{ "tags/tools/" | absLangURL }}</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://abhib.com/tags/welcome/</loc>
+  <loc>{{ "tags/welcome/" | absLangURL }}</loc>
   <lastmod>2022-10-31T06:29:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>

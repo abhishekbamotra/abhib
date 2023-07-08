@@ -16,6 +16,8 @@ tags: [how-to]
 
 4. Deep Learning Andrew NG class notes [Slideshare](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 
+5. Data Science Interviews [Github] (https://github.com/alexeygrigorev/data-science-interviews) 
+
 ## Resources for practice:
 
 1. Medium to advanced but good algorithms and data structures
